@@ -3,6 +3,8 @@ tank
 
 Tank in canvas
 
+Javascript + Canvas
+
 Esta cosa cuenta con lo siguiente:
 * Manejo de colision entre bloques
 * Dibujo de bloques
