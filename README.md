@@ -10,4 +10,4 @@ Esta cosa cuenta con lo siguiente:
 * Manejo de carga de imagenes
 * Motor basico ( update, draw )
 
-Echale un ojo aqui: [link]( "https://rawgithubusercontent.com/estuardolh/tank/master/index.html" )
+Echale un ojo aqui: [link]( "http://estuardolh.github.io/tank" )
