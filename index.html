@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Mi game engine.</title>
+	</head>
+	<body style="background-color:#006600"><!-- background-color:purple -->
+		<center>
+			<canvas id="mycanvas" height="288" width="288" style="opaque:true;" >
+			</canvas>
+		</center>
+		
+		<script src="./js/Painter.js"></script>
+		<script src="./js/Bloque.js"></script>
+		<script src="./js/BloqueMovil.js"></script>
+		<script src="./js/Tank.js"></script>
+		
+		
+		<script src="./js/TanksGame.js"></script>
+		<script src="./js/Engine.js"></script>
+		<script src="./js/Keyboard.js"></script>
+		<script src="./js/Mouse.js"></script>
+		
+		<script>
+			// set canvas
+			Painter.canvas = document.getElementById('mycanvas');
+			
+			// start engine
+			Engine.start();
+		</script>
+	</body>
+</html>
